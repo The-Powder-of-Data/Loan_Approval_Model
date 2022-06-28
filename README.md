@@ -1,5 +1,5 @@
 # Loan Approval Model
-![General Flow](output/content/title_image.png)
+![General Flow](output/content/approved.png)
 
 - **What**: A model to automate loan approval
 - **How**: Using feature engineering and a variety of modeling approaches
